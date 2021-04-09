@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Flags and Capitals</string>
+    <string name="pop_upexit_text_title">WARNING...  </string>
+    <string name="pop_up_try_again_title">WARNING</string>
+    <string name="pop_up_try_again_text">Enter your name if you want your name to appear in the ranking   </string>
+    <string name="pop_up_warning">Note:If you dont write your name, you wont see the list  </string>
+    <string name="banner_ad_unit_id">ca-app-pub-2217525225495117/1668243341</string>
+    <string name="game_name"> Flags and </string>
+    <string name="game_name1"> Capitals</string>
+    <string name="sound_text">SOUND</string>
+    <string name="vibrate_text">VIBRATION</string>
+    <string name="turkish">Turkish</string>
+    <string name="english">English</string>
+    <string name="game_mode1">NAME of COUNTRY --- FLAG</string>
+    <string name="game_mode2">FLAG --- NAME of COUNTRY</string>
+    <string name="game_mode3">NAME of COUNTRY --- CAPITAL</string>
+    <string name="save">SAVE</string>
+    <string name="score">Score</string>
+    <string name="game_score">"Score :"</string>
+    <string name="okay">"OKAY"</string>
+</resources>

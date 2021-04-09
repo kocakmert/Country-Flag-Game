@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#4F76C5</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="arka_plan">#c5ddd3</color>
+    <color name="text_color">#374fc5</color>
+    <color name="iconbackdash">#d8d8d8 </color>
+    <color name="toprela">#D1C9C9 </color>
+    <color name="siyah">#000000</color>
+    <color name="mav">#4F76C5</color>
+    <color name="ColorRed">#FF3943</color>
+    <color name="ColorDarkRed">#801b20</color>
+    <color name="FormSecond">#fdefed</color>
+    <color name="Toolbar">#CAFFCD</color>
+    <color name="exit_popup">#FFCAF8</color>
+    <color name="view">#040078</color>
+    <color name="gri">#909090</color>
+    <color name="beyaz">#FFFFFF</color>
+
+</resources>

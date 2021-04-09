@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bayraklar ve Başkentler</string>
+    <string name="pop_upexit_text_title">UYARI...  </string>
+    <string name="pop_up_try_again_title">UYARI</string>
+    <string name="pop_up_try_again_text">Sıralamayı görmek için isminizi girin.</string>
+    <string name="pop_up_warning">NOT:İsminizi girmezseniz sıralamada adınızı göremezsiniz.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2217525225495117/1668243341</string>
+    <string name="game_name"> Flags and </string>
+    <string name="game_name1"> Capitals</string>
+    <string name="turkish">Türkçe</string>
+    <string name="english">İngilizce</string>
+    <string name="sound_text">SES</string>
+    <string name="vibrate_text">TİTREŞİM</string>
+    <string name="game_mode1">ÜLKE İSMİ --- BAYRAK</string>
+    <string name="game_mode2">BAYRAK --- ÜLKE İSMİ</string>
+    <string name="game_mode3">ÜLKE İSMİ --- BAŞKENT</string>
+    <string name="save">KAYDET</string>
+    <string name="score">Skor</string>
+    <string name="game_score">"Skor :"</string>
+    <string name="okay">"TAMAM"</string>
+</resources>

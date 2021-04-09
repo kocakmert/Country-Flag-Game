@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547018554237",
+    "firebase_url": "https://gameflag-7677b.firebaseio.com",
+    "project_id": "gameflag-7677b",
+    "storage_bucket": "gameflag-7677b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547018554237:android:26295d2e5b06e52b39aa14",
+        "android_client_info": {
+          "package_name": "com.gameflag.gameflag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547018554237-1savnhmmce111r3d246q44euq4f5003t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gameflag.gameflag",
+            "certificate_hash": "790dac75e589d0aa99fca12ee558a11673db6f8e"
+          }
+        },
+        {
+          "client_id": "547018554237-i2aecsar379va772hjj1if505rr6k10v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxxEGvlE6I6MyJdC10tqMlPhPnJLLoiPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547018554237-i2aecsar379va772hjj1if505rr6k10v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
